@@ -32,3 +32,9 @@ mvn spring-boot:run
 ## Test API
 
 Open [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) to check the available REST API.
+
+You can use the `Test` user credentials to authorize the system and to obtain the jwt token:
+```aidl
+Username: Test
+Password: testtest
+``` 
